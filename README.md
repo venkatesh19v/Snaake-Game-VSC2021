@@ -1,2 +1,2 @@
-# Snaake-Game-VSC2021
+# Snake-Game-VSC2021
 python
